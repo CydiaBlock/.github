@@ -1,4 +1,4 @@
-_# Cydia Block Projects
+# Cydia Block Projects
 
 👋 **Welcome to Cydia Block Projects!**  
 A curated repository of tweaks, tools, and patches for jailbroken iOS devices — with a special focus on older devices that are no longer widely supported.
