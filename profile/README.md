@@ -40,7 +40,7 @@ If you have a tweak or patch that aligns with the purpose of this repo, feel fre
 * [**Cluster 1**](https://github.com/CydiaBlock/package_debian_A1): 1/5 (GB)
 * [**Cluster 2**](https://github.com/CydiaBlock/package_debian_A2): 4/5 (GB)
 * [**Cluster 3**](https://github.com/CydiaBlock/package_debian_A3): 4/5 (GB)
-* [**Cluster 4**](https://github.com/CydiaBlock/package_debian_A4): 0/5 (GB)
+* [**Cluster 4**](https://github.com/CydiaBlock/package_debian_A4): 4/5 (GB)
 * [**Cluster 5**](https://github.com/CydiaBlock/package_debian_A5): 0/5 (GB)
 
 You can browse or download files directly as needed.
