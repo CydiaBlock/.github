@@ -13,7 +13,7 @@ A curated repository of tweaks, tools, and patches for jailbroken iOS devices â€
 ## ðŸ“¦ Add the repo to your package manager
 
 Copy and add the following source to your preferred package manager (Cydia, Sileo, Zebra, etc.):
-
+* [**Cydia Block**](https://cydiablock.github.io/)
 ```bash
 https://cydiablock.github.io/
 ```
