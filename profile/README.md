@@ -43,4 +43,9 @@ If you have a tweak or patch that aligns with the purpose of this repo, feel fre
 | [**Node 4**](https://github.com/CydiaBlock/package_debian_A4) | 4              | GB   | | [**Node 5**](https://github.com/CydiaBlock/package_debian_A5) | 5              | GB   | | [**Node 6**](https://github.com/CydiaBlock/package_debian_A6)  | 3              | GB   |
 | [**Node 7**](https://github.com/CydiaBlock/package_debian_A7) | 4              | GB   | | [**Node 8**](https://github.com/CydiaBlock/package_debian_A8) | 5              | GB   | | [**Node 9**](https://github.com/CydiaBlock/package_debian_A9)  | 1              | GB   |
 
+### Cluster B
+| ID                                                            | Status (Max 5) | Type | | ID                                                            | Status (Max 5) | Type | |  ID                                                            | Status (Max 5) | Type |
+|---------------------------------------------------------------|----------------|------|-|---------------------------------------------------------------|----------------|------|-|----------------------------------------------------------------|----------------|------|
+| [**Node 1**](https://github.com/CydiaBlock/package_debian_B1) | 1              | GB   | |                                                               |                | GB   | |                                                                |                | GB   |
+
 You can browse or download files directly as needed.
