@@ -37,15 +37,15 @@ If you have a tweak or patch that aligns with the purpose of this repo, feel fre
 
 ## 🗄️ Storage Cluster
 ### Cluster A
-| ID                                                            | Status (Max 5) | Type | | ID                                                            | Status (Max 5) | Type | |  ID                                                            | Status (Max 5) | Type |
+| ID                                                            | Status | Type | | ID                                                            | Status | Type | |  ID                                                            | Status (Max 5) | Type |
 |---------------------------------------------------------------|----------------|------|-|---------------------------------------------------------------|----------------|------|-|----------------------------------------------------------------|----------------|------|
-| [**Node 1**](https://github.com/CydiaBlock/package_debian_A1) | 1              | GB   | | [**Node 2**](https://github.com/CydiaBlock/package_debian_A2) | 4              | GB   | | [**Node 3**](https://github.com/CydiaBlock/package_debian_A3)  | 4              | GB   |
-| [**Node 4**](https://github.com/CydiaBlock/package_debian_A4) | 4              | GB   | | [**Node 5**](https://github.com/CydiaBlock/package_debian_A5) | 5              | GB   | | [**Node 6**](https://github.com/CydiaBlock/package_debian_A6)  | 3              | GB   |
-| [**Node 7**](https://github.com/CydiaBlock/package_debian_A7) | 4              | GB   | | [**Node 8**](https://github.com/CydiaBlock/package_debian_A8) | 5              | GB   | | [**Node 9**](https://github.com/CydiaBlock/package_debian_A9)  | 1              | GB   |
+| [**Node 1**](https://github.com/CydiaBlock/package_debian_A1) | Full              | N/A   | | [**Node 2**](https://github.com/CydiaBlock/package_debian_A2) | Full              | N/A   | | [**Node 3**](https://github.com/CydiaBlock/package_debian_A3)  | Full              | N/A   |
+| [**Node 4**](https://github.com/CydiaBlock/package_debian_A4) | 4              | N/A   | | [**Node 5**](https://github.com/CydiaBlock/package_debian_A5) | Full              | N/A   | | [**Node 6**](https://github.com/CydiaBlock/package_debian_A6)  | Full              | N/A   |
+| [**Node 7**](https://github.com/CydiaBlock/package_debian_A7) | 4              | N/A   | | [**Node 8**](https://github.com/CydiaBlock/package_debian_A8) | Full              | N/A   | | [**Node 9**](https://github.com/CydiaBlock/package_debian_A9)  | Full              | N/A   |
 
 ### Cluster B
-| ID                                                            | Status (Max 5) | Type | | ID                                                            | Status (Max 5) | Type | |  ID                                                            | Status (Max 5) | Type |
+| ID                                                            | Status | Type | | ID                                                            | Status | Type | |  ID                                                            | Status (Max 5) | Type |
 |---------------------------------------------------------------|----------------|------|-|---------------------------------------------------------------|----------------|------|-|----------------------------------------------------------------|----------------|------|
-| [**Node 1**](https://github.com/CydiaBlock/package_debian_B1) | 1              | GB   | |                                                               |                | GB   | |                                                                |                | GB   |
+| [**Node 1**](https://github.com/CydiaBlock/package_debian_B1) | Low              | N/A   | |                                                               |                | N/A   | |                                                                |                | N/A   |
 
 You can browse or download files directly as needed.
